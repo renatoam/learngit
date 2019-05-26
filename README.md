@@ -1,2 +1,2 @@
-# learngit
-Repositório pra aprender git e github
+# Traversy Media - JavaScript
+Estudos de JavaScript com Traversy Media
